@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratik Goriwale</h1>
-<h3 align="center">A passionate coder from India</h3>
 
 - 🌱 I’m currently learning **Machine Learning and Generative AI**
-
-- 💬 Ask me about **Web Development**
-
 - 📫 How to reach me **pratikgoriwale71@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
